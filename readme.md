@@ -1,5 +1,7 @@
 # Java学习仓库
-IDE:Vscode
+    IDE:Vscode
+    GBK:936
+    UTF-8:65001
 
 ## Git 的M,T,D,A,U标志意思
     A: 增加的文件;
